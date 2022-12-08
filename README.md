@@ -1,13 +1,13 @@
 Exams-Tasks
 
-01. Barista Contest
+1. Barista Contest
 
-02. Birthday Celebration
+2. Birthday Celebration
 
-03.Help A Mole
+3.Help A Mole
 
-04.Rally Racing 
+4.Rally Racing 
 
-05.Truffle Hunter
+5.Truffle Hunter
 
-06. Meal Plan
+6. Meal Plan
