@@ -1,0 +1,14 @@
+C:\Users\desis\Desktop\fishing net\obj\Debug\netcoreapp3.1\FishingNet.csproj.AssemblyReference.cache
+C:\Users\desis\Desktop\fishing net\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desis\Desktop\fishing net\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+C:\Users\desis\Desktop\fishing net\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+C:\Users\desis\Desktop\fishing net\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+C:\Users\desis\Desktop\fishing net\bin\Debug\netcoreapp3.1\FishingNet.exe
+C:\Users\desis\Desktop\fishing net\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+C:\Users\desis\Desktop\fishing net\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+C:\Users\desis\Desktop\fishing net\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+C:\Users\desis\Desktop\fishing net\bin\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\desis\Desktop\fishing net\bin\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\desis\Desktop\fishing net\obj\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\desis\Desktop\fishing net\obj\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\desis\Desktop\fishing net\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache
