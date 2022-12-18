@@ -21,8 +21,7 @@
 10.Super Mario
 
 11.Fishing Net
-<<<<<<< HEAD
 
 12.Zoo
 =======
->>>>>>> f129c4484644727d6ba6bd82d3b6ff353d2031e4
+

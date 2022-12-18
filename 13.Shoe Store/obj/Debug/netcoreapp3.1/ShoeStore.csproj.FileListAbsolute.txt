@@ -1,0 +1,14 @@
+C:\Users\desis\Desktop\shoes\bin\Debug\netcoreapp3.1\ShoeStore.exe
+C:\Users\desis\Desktop\shoes\bin\Debug\netcoreapp3.1\ShoeStore.deps.json
+C:\Users\desis\Desktop\shoes\bin\Debug\netcoreapp3.1\ShoeStore.runtimeconfig.json
+C:\Users\desis\Desktop\shoes\bin\Debug\netcoreapp3.1\ShoeStore.runtimeconfig.dev.json
+C:\Users\desis\Desktop\shoes\bin\Debug\netcoreapp3.1\ShoeStore.dll
+C:\Users\desis\Desktop\shoes\bin\Debug\netcoreapp3.1\ShoeStore.pdb
+C:\Users\desis\Desktop\shoes\obj\Debug\netcoreapp3.1\ShoeStore.csproj.AssemblyReference.cache
+C:\Users\desis\Desktop\shoes\obj\Debug\netcoreapp3.1\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desis\Desktop\shoes\obj\Debug\netcoreapp3.1\ShoeStore.AssemblyInfoInputs.cache
+C:\Users\desis\Desktop\shoes\obj\Debug\netcoreapp3.1\ShoeStore.AssemblyInfo.cs
+C:\Users\desis\Desktop\shoes\obj\Debug\netcoreapp3.1\ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\desis\Desktop\shoes\obj\Debug\netcoreapp3.1\ShoeStore.dll
+C:\Users\desis\Desktop\shoes\obj\Debug\netcoreapp3.1\ShoeStore.pdb
+C:\Users\desis\Desktop\shoes\obj\Debug\netcoreapp3.1\ShoeStore.genruntimeconfig.cache
