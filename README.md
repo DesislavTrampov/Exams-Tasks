@@ -23,5 +23,9 @@
 11.Fishing Net
 
 12.Zoo
+
+13.Shoe Store
+
+14.Parking
 =======
 
