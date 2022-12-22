@@ -1,0 +1,14 @@
+C:\Users\desis\Desktop\Ski\bin\Debug\netcoreapp3.1\SkiRental.exe
+C:\Users\desis\Desktop\Ski\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+C:\Users\desis\Desktop\Ski\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+C:\Users\desis\Desktop\Ski\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+C:\Users\desis\Desktop\Ski\bin\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\desis\Desktop\Ski\bin\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\desis\Desktop\Ski\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+C:\Users\desis\Desktop\Ski\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desis\Desktop\Ski\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+C:\Users\desis\Desktop\Ski\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+C:\Users\desis\Desktop\Ski\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+C:\Users\desis\Desktop\Ski\obj\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\desis\Desktop\Ski\obj\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\desis\Desktop\Ski\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

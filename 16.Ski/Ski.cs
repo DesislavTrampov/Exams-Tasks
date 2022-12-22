@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Reflection;
+using System.Text;
+
+namespace SkiRental
+{
+    public class Ski
+    {
+        public Ski(string manufactures,string model,int year)
+        {
+            Manufacturer = manufactures;
+            Model = model;  
+            Year = year;
+        }
+        public string Manufacturer { get; set;}
+        public string Model { get; set;}
+        public int Year { get; set; }
+
+
+        public override string ToString()
+        {
+            return $"{Manufacturer} - {Model} - {Year}";
+        }
+
+    }
+}
